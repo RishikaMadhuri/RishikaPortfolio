@@ -13,15 +13,21 @@ Pages
 
 The website consists of the following pages:
 
-    Home (index.html): This is the main landing page of the portfolio. It includes a brief introduction about myself, along with links to other sections of the portfolio.
+Home (index.html): 
+This is the main landing page of the portfolio. It includes a brief introduction about myself, 
+along with links to other sections of the portfolio.
 
-    Education (Education.html): This page displays my educational background and qualifications.
+Education (Education.html): 
+This page displays my educational background and qualifications.
 
-    Technical (Technical.html): On this page, I showcase my technical skills and expertise.
+Technical (Technical.html): 
+On this page, I showcase my technical skills and expertise.
 
-    Projects (Projects.html): Here, I present the various projects I have worked on, highlighting their details and outcomes.
+Projects (Projects.html): 
+Here, I present the various projects I have worked on, highlighting their details and outcomes.
 
-    Achievements (Achievements.html): This page lists my achievements, such as competitions, awards, and other notable accomplishments.
+Achievements (Achievements.html): 
+This page lists my achievements, such as competitions, awards, and other notable accomplishments.
 
   
 Usage
