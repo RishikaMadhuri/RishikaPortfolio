@@ -30,11 +30,12 @@ Achievements (Achievements.html):
 This page lists my achievements, such as competitions, awards, and other notable accomplishments.
 
   
-Usage
-  
+Usage:
+
   To view the website locally, you can clone this repository to your local machine and open any of the HTML files in your web browser.
 
-Contact 
+Contact:
+
   I have my contact details in my portfolio which includes my email and linkedin id
 
 Thank you for visiting my portfolio!
